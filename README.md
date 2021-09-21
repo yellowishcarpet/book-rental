@@ -6,7 +6,7 @@ Program for collecting information about renting books.
 - Data visualization, addition, deletion
 - Search
 - Sorting
-- Data is read from a file and and written to the file 
+- Data is read from .txt document
 - Input, output control
 
 ## Other
